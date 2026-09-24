@@ -1,0 +1,12 @@
+{
+  "name": "kpmgtest-lga-test_zbilling",
+  "version": "1.0.0",
+  "description": "Kpmgtest-lga-test_zbilling",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "keepClient": "false",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}
